@@ -1,0 +1,10 @@
+C:\hascap\blank.mvc.template\bin\Debug\netcoreapp2.0\blank.mvc.template.deps.json
+C:\hascap\blank.mvc.template\bin\Debug\netcoreapp2.0\blank.mvc.template.runtimeconfig.json
+C:\hascap\blank.mvc.template\bin\Debug\netcoreapp2.0\blank.mvc.template.runtimeconfig.dev.json
+C:\hascap\blank.mvc.template\bin\Debug\netcoreapp2.0\blank.mvc.template.dll
+C:\hascap\blank.mvc.template\bin\Debug\netcoreapp2.0\blank.mvc.template.pdb
+C:\hascap\blank.mvc.template\obj\Debug\netcoreapp2.0\blank.mvc.template.csproj.CoreCompileInputs.cache
+C:\hascap\blank.mvc.template\obj\Debug\netcoreapp2.0\blank.mvc.template.AssemblyInfoInputs.cache
+C:\hascap\blank.mvc.template\obj\Debug\netcoreapp2.0\blank.mvc.template.AssemblyInfo.cs
+C:\hascap\blank.mvc.template\obj\Debug\netcoreapp2.0\blank.mvc.template.dll
+C:\hascap\blank.mvc.template\obj\Debug\netcoreapp2.0\blank.mvc.template.pdb
